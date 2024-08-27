@@ -84,6 +84,7 @@ public class ModuloPrincipal {
         pacientes.add(nuevoPaciente);
 
         System.out.println("Paciente registrado con exito.");
+        System.out.println("This is a new message");
     }
 
     private static void eliminarPaciente() {
